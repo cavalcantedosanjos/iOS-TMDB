@@ -15,8 +15,7 @@ Keyboard's manager to handle scroll of view
 Helper to download image and manager the cache.
 
 # Screenshots
-<!-- ![alt tag](https://github.com/cavalcantedosanjos/PasswordSafebox/raw/master/Screenshot/home.png) -->
-![Alt text](screenshot/home.png)
+![Kiku](screenshot/home.png)
 
 # License
 MIT
