@@ -15,7 +15,7 @@ Keyboard's manager to handle scroll of view
 Helper to download image and manager the cache.
 
 # Screenshots
-![](screenshot/home.png)
+![](screenshots/home.png)
 
 # License
 MIT
